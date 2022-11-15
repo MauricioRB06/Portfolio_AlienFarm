@@ -2,11 +2,11 @@
 
 <br>
 
-<p align="center"><img height="15" src="https://github.com/MauricioRB06/MauricioRB06/blob/775f8d6d394ada1548db8bafc308dfc0c6f60b54/Assets/Readme_ItchioLogo.png"><a href="GAME PAGE LINK HERE" target="_blank">  Download Game on Itch.io  </a><img height="15" src="https://github.com/MauricioRB06/MauricioRB06/blob/478cbf444a36395ff2048b6983ac26b97d1086fb/Portfolio%20Assets/Unreal%20Projects/DuckHunter/Readme_WindowsLogo.png"></p>
+<p align="center"><img height="15" src="https://github.com/MauricioRB06/MauricioRB06/blob/775f8d6d394ada1548db8bafc308dfc0c6f60b54/Assets/Readme_ItchioLogo.png"><a href="https://mauriciorb06.itch.io/alien-farm" target="_blank">  Download Game on Itch.io  </a><img height="15" src="https://github.com/MauricioRB06/MauricioRB06/blob/478cbf444a36395ff2048b6983ac26b97d1086fb/Portfolio%20Assets/Unreal%20Projects/DuckHunter/Readme_WindowsLogo.png"></p>
 
 <div align="center"> -------------------------------------------------------------------------------------------------------------------------------- </div>
 <br>
-<div align="center"><a href="YOUTUBE TRAILER HERE" target="_blank"><img width=90% src="https://github.com/MauricioRB06/MauricioRB06/blob/69a9c0cbe0e3c1a6736102a42b2f22ca8fdf1e73/Portfolio%20Assets/Unity%20Projects/AlienFarm/AlienFarm_Banner.png"></a></div>
+<div align="center"><a href="https://youtu.be/b6KtrIEyG4U" target="_blank"><img width=90% src="https://github.com/MauricioRB06/MauricioRB06/blob/69a9c0cbe0e3c1a6736102a42b2f22ca8fdf1e73/Portfolio%20Assets/Unity%20Projects/AlienFarm/AlienFarm_Banner.png"></a></div>
 <br>
 <div align="center"> -------------------------------------------------------------------------------------------------------------------------------- </div>
 
@@ -26,7 +26,8 @@ The game has been completely made in Unity with C# and the following has been im
 - A script to manage the sound effects.
 - A script to control the behavior of the animals.
 - A script to define the behavior of the projectiles that the player can throw.
-</p>
+  
+  </p>
 
 <div align="center"> -------------------------------------------------------------------------------------------------------------------------------- </div>
 
@@ -44,7 +45,8 @@ En el juego se ha realizado completamente en Unity con C# y se ha implementado l
 - Un Script para Asministrar los efectos de sonido.
 - Un Script para controlar el comportamiento de los Animales.
 - Un Script para definir el comportamiento de los proyectiles que puede lanzar el jugador.
-</p>
+  
+  </p>
 
 <div align="center"> -------------------------------------------------------------------------------------------------------------------------------- </div>
 
@@ -54,7 +56,6 @@ En el juego se ha realizado completamente en Unity con C# y se ha implementado l
 **[ <img height="10" src="https://github.com/MauricioRB06/MauricioRB06/blob/478cbf444a36395ff2048b6983ac26b97d1086fb/Assets/ES.png"> ES ]** A continuación algunas capturas del proyecto:
 
 </p>
-
 
 <img src="https://github.com/MauricioRB06/MauricioRB06/blob/69a9c0cbe0e3c1a6736102a42b2f22ca8fdf1e73/Portfolio%20Assets/Unity%20Projects/AlienFarm/AlienFarm_Image01.png">
 <img src="https://github.com/MauricioRB06/MauricioRB06/blob/69a9c0cbe0e3c1a6736102a42b2f22ca8fdf1e73/Portfolio%20Assets/Unity%20Projects/AlienFarm/AlienFarm_Image02.png">
@@ -71,11 +72,10 @@ En el juego se ha realizado completamente en Unity con C# y se ha implementado l
 <br>
 
 - Total development time: 8h
-- The project has been developed during the following course:<a href="https://www.arkde.com/cursos/videojuegos-unity-desde-cero/" target="_blank"> Name Couse</a>
+- The project has been developed during the following course:<a href="https://www.arkde.com/cursos/videojuegos-unity-desde-cero/" target="_blank"> Desarrollo de videojuegos 2D en Unity desde cero</a>
 - Code Languague: C# 9.0
 - RHI: Dx11 SM5.0  /  Vulkan SM5.0
 - Engine: Unity 2021.3.11f1 LTS
-
 
 ## Requirements for Play:
 
@@ -88,6 +88,6 @@ En el juego se ha realizado completamente en Unity con C# y se ha implementado l
 
 ### Project Resources:
 
-- [Art] Hyper Casual UI - Free: <a href="https://swapnilrane24.itch.io/hyper-casual-ui-free" target="_blank">PageName</a>
-- [Art] Free Parallax 2D Backgrounds: <a href="https://free-game-assets.itch.io/free-parallax-2d-backgrounds" target="_blank">PageName</a>
-- [Music] 8 Bit Chillout! - Chill Dreamy Game Music by HeatleyBros<a href="https://www.youtube.com/watch?v=8El8ZP8LMFE&list=PLobY7vO0pgVIOZNKTVRhkPzrfCjDJ0CNl&index=6" target="_blank">PageName</a>
+- [Art] Hyper Casual UI - Free: <a href="https://swapnilrane24.itch.io/hyper-casual-ui-free" target="_blank">Itch.io</a>
+- [Art] Free Parallax 2D Backgrounds: <a href="https://free-game-assets.itch.io/free-parallax-2d-backgrounds" target="_blank">Itch.io</a>
+- [Music] 8 Bit Chillout! - Chill Dreamy Game Music by HeatleyBros: <a href="https://www.youtube.com/watch?v=8El8ZP8LMFE&list=PLobY7vO0pgVIOZNKTVRhkPzrfCjDJ0CNl&index=6" target="_blank">YouTube</a>
