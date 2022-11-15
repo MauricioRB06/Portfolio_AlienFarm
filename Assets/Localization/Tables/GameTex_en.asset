@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameTex_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0d4c969fa8119964597000f9f6742d19, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12954804224
+    m_Localized: PLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55141113856
+    m_Localized: CONTROLS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79736512512
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119632732160
+    m_Localized: CREDITS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139501150208
+    m_Localized: EXIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 271734972416
+    m_Localized: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345290481664
+    m_Localized: 'Time:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 401561264128
+    m_Localized: 'Score:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416056778752
+    m_Localized: Final Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 453205729280
+    m_Localized: RESUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 487829708800
+    m_Localized: Moving
+    m_Metadata:
+      m_Items: []
+  - m_Id: 533803474944
+    m_Localized: Shoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 572084887552
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 688954974208
+    m_Localized: You must capture as many enemies as possible before time runs out!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342305394040832
+    m_Localized: You must capture as many enemies as possible before time runs out,
+      you can capture them if you hit them enough times with your ship's projectiles,
+      you only have 2 minutes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343625542836224
+    m_Localized: 'Resources Used:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343299561529344
+    m_Localized: Developed By MauricioRB06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345179595382784
+    m_Localized: Full Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345303562231808
+    m_Localized: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345372080381952
+    m_Localized: SFX Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 347618805456896
+    m_Localized: FINISH
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

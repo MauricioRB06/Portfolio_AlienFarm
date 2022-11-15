@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameTex_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 0d4c969fa8119964597000f9f6742d19, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12954804224
+    m_Localized: JUGAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55141113856
+    m_Localized: CONTROLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79736512512
+    m_Localized: OPCIONES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119632732160
+    m_Localized: CREDITOS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139501150208
+    m_Localized: SALIR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 271734972416
+    m_Localized: VOLVER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345290481664
+    m_Localized: 'Tiempo:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 401561264128
+    m_Localized: 'Puntaje:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416056778752
+    m_Localized: "Puntuaci\xF3n Final"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 453205729280
+    m_Localized: CONTINUAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 487829708800
+    m_Localized: Moverse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 533803474944
+    m_Localized: Disparar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 572084887552
+    m_Localized: Pausar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 688954974208
+    m_Localized: "\xA1Debes Capturar la mayor cantidad de enemigos posibles antes
+      de que se te agote el tiempo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342305394040832
+    m_Localized: "\xA1Debes Capturar la mayor cantidad de enemigos posibles antes
+      de que se te agote el tiempo, puedes capturarlos si los golpeas la suficiente
+      cantidad de veces con los proyectiles de tu nave, solo tienes 2 minutos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343625542836224
+    m_Localized: 'Recursos Usados:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 343299561529344
+    m_Localized: Desarrollado Por MauricioRB06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345179595382784
+    m_Localized: Pantalla Completa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345303562231808
+    m_Localized: "Volumen M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345372080381952
+    m_Localized: Volumen Efectos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 347618805456896
+    m_Localized: TERMINAR
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
