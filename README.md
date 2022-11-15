@@ -72,7 +72,7 @@ En el juego se ha realizado completamente en Unity con C# y se ha implementado l
 <br>
 
 - Total development time: 8h
-- The project has been developed during the following course:<a href="https://www.arkde.com/cursos/videojuegos-unity-desde-cero/" target="_blank"> Desarrollo de videojuegos 2D en Unity desde cero</a>
+- The project has been developed during the following course: <a href="https://www.arkde.com/cursos/videojuegos-unity-desde-cero/" target="_blank">Desarrollo de videojuegos 2D en Unity desde cero</a>
 - Code Languague: C# 9.0
 - RHI: Dx11 SM5.0  /  Vulkan SM5.0
 - Engine: Unity 2021.3.11f1 LTS
